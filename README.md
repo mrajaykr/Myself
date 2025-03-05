@@ -1,3 +1,3 @@
 # Myself
-This is about myself
+This is about myself.
 Author - Ajay Kumar
